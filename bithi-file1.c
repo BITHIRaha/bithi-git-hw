@@ -1,3 +1,4 @@
 char* bithi(){
-  return "bithi";
+  int a=10;
+  return "bithi-raha";
   }
